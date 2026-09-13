@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flipada.com/sitemap.xml
